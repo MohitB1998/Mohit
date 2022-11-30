@@ -1,0 +1,21 @@
+[submodule "OneDrive/Desktop/mdp/modernDeveloment/themes/vncnt-hugo"]
+	path = OneDrive/Desktop/mdp/modernDeveloment/themes/vncnt-hugo
+	url = https://github.com/fncnt/vncnt-hugo
+[submodule "OneDrive/Desktop/mdp/modernDeveloment/themes/hugo-theme-cleanwhite"]
+	path = OneDrive/Desktop/mdp/modernDeveloment/themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "OneDrive/Desktop/mdp/modernDeveloment/themes/aafu"]
+	path = OneDrive/Desktop/mdp/modernDeveloment/themes/aafu
+	url = https://github.com/darshanbaral/aafu
+[submodule "OneDrive/Desktop/mdp/modernDevelop/themes/aafu"]
+	path = OneDrive/Desktop/mdp/modernDevelop/themes/aafu
+	url = https://github.com/darshanbaral/aafu
+[submodule "OneDrive/Desktop/mdp/modernDevelop/paige"]
+	path = OneDrive/Desktop/mdp/modernDevelop/paige
+	url = https://github.com/willfaught/paige
+[submodule "OneDrive/Desktop/mdp/mdp/themes/hugo-theme"]
+	path = OneDrive/Desktop/mdp/mdp/themes/hugo-theme
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "OneDrive/Desktop/mdp/mdp/themes/hugo-tranquilpeak-theme"]
+	path = OneDrive/Desktop/mdp/mdp/themes/hugo-tranquilpeak-theme
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
